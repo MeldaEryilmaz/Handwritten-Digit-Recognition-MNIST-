@@ -1,1 +1,1 @@
-# El-Yaz-s-Rakam-Tan-ma-MNIST-
+# El-Yazisi-Rakam-Tanima-MNIST-
